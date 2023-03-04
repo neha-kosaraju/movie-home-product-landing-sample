@@ -1,2 +1,2 @@
 # movie-home-product-landing-sample
-This is a freeCodeCamp project, built as a part of the Responsive Web Development certification.
+A sample product landing page for movie home, created with HTML5 and styled with CSS.
